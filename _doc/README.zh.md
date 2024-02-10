@@ -1,4 +1,4 @@
-# Hux blog 模板
+# Blog 模板
 
 ### [我的博客在这里 &rarr;](http://huxpro.github.io)
 
@@ -79,8 +79,8 @@ $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 
 ```
 # Site settings
-title: Hux Blog             # 你的博客网站标题
-SEOTitle: Hux Blog			# 在后面会详细谈到
+title: Ahan Blog             # 你的博客网站标题
+SEOTitle: Ahan Blog			# 在后面会详细谈到
 description: "Cool Blog"    # 随便说点，描述一下
 
 # SNS settings      
